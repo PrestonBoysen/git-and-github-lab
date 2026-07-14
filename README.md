@@ -1,4 +1,4 @@
 # Sales Report
 Daily sales analysis. 
 
-print("hello")
+This is a python repository containig analysis of sales data. 

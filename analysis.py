@@ -8,4 +8,3 @@ print("Largest transaction", df["price"].max())
 print("Smallest transaction", df["price"].min())
 #Print the standard deviation of the transaction prices: 
 print("Standard deviation of transaction prices:", df["Price"].sd())
-
